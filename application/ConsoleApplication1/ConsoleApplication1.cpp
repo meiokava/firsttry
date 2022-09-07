@@ -7,6 +7,7 @@ int main()
    cout << 2+3<<endl;
    cout << 42 + 8 << endl;
    cout << 254 + 238 << endl;
+   cout << 254 + 5729238 << endl;
 }
 
 
